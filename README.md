@@ -1,1 +1,1 @@
-# California-Housing-Data-Analysis-Project
+# California Housing Data Analysis Project
